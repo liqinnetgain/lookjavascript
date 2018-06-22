@@ -6,7 +6,7 @@
 
 如果是要面试别人，你可以在这里筛选出你想用的面试题。
 
-详细内容请点击[《前端，了解一下？》](https://yakima-teng.github.io/memo/)。
+详细内容请点击[《前端志》](http://www.lookjavascript.com/)。
 
 
 ## 源码地址

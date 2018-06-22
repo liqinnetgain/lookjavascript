@@ -30,3 +30,11 @@
 本书为开源项目，可在线免费阅读。未经允许不得用于商业用途。但允许出于学习目的的少量转载，转载请以链接形式注明出处：
 
 - 来源：[前端志](http://www.lookjavascript.com/)：http://www.lookjavascript.com/
+
+
+## TODO List
+
+- hoisting
+- js精度丢失
+- vue 计算属性和直接在标记语言里使用函数的区别
+- new关键字做了什么
