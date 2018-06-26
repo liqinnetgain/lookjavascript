@@ -36,5 +36,16 @@
 
 - hoisting
 - js精度丢失
-- vue 计算属性和直接在标记语言里使用函数的区别
+- vue计算属性和直接在标记语言里使用函数的区别
+- vue原理解析
+- vue-router的两种模式
+- vue-router动态路由
+- vue-router切换组件原理
+- compose函数的实现
 - new关键字做了什么
+- 正则基础、懒惰模式与贪婪模式
+- CSRF（cross-site-request-forgery）跨站请求伪装
+- XSS（cross-site-script）跨站脚本攻击
+- webStorage
+- 函数节流和防抖的区别
+- 箭头函数和this指向
