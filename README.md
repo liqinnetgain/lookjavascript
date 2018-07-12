@@ -41,9 +41,6 @@
 - vue-router的两种模式
 - vue-router动态路由
 - vue-router切换组件原理
-- compose函数的实现
-- new关键字做了什么
 - 正则基础、懒惰模式与贪婪模式
 - webStorage
 - 函数节流和防抖的区别
-- 箭头函数和this指向
