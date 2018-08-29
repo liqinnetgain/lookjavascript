@@ -11,7 +11,7 @@
 
 ## 源码地址
 
-本项目代码托管于Github上，项目地址：[https://github.com/Yakima-Teng/memo](https://github.com/Yakima-Teng/memo)。
+本项目代码托管于Github上，项目地址：[https://github.com/Yakima-Teng/lookjavascript](https://github.com/Yakima-Teng/lookjavascript)。
 
 
 ## 关于语言的说明
@@ -27,6 +27,6 @@
 
 文档请采用markdown格式，写在docs目录下，并且文件名中间不要出现空格（这个文件名会被用到对应页面的url上）。
 
-若要提建议，请点击[https://github.com/Yakima-Teng/memo/issues](https://github.com/Yakima-Teng/memo/issues)。
+若要提建议，请点击[https://github.com/Yakima-Teng/lookjavascript/issues](https://github.com/Yakima-Teng/lookjavascript/issues)。
 
-若要贡献内容，请点击[https://github.com/Yakima-Teng/memo](https://github.com/Yakima-Teng/memo)，fork仓库代码本地编辑并提交后进行pull request操作。
+若要贡献内容，请点击[https://github.com/Yakima-Teng/lookjavascript](https://github.com/Yakima-Teng/lookjavascript)，fork仓库代码本地编辑并提交后进行pull request操作。
