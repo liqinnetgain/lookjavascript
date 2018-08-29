@@ -1,5 +1,5 @@
 {
-  "name": "memo",
+  "name": "lookjavascript",
   "version": "0.0.1",
   "main": "README.md",
   "scripts": {
@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yakima-Teng/memo.git"
+    "url": "git+https://github.com/Yakima-Teng/lookjavascript.git"
   },
   "keywords": [
     "front-end",
     "interview",
-    "memo"
+    "javascript"
   ],
   "author": "Yakima Teng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Yakima-Teng/memo/issues"
+    "url": "https://github.com/Yakima-Teng/lookjavascript/issues"
   },
-  "homepage": "https://github.com/Yakima-Teng/memo#readme",
+  "homepage": "https://github.com/Yakima-Teng/lookjavascript#readme",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",

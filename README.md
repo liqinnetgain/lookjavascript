@@ -17,12 +17,12 @@
 
 ## 源码地址
 
-本项目代码托管于Github上，项目地址：[https://github.com/Yakima-Teng/memo](https://github.com/Yakima-Teng/memo)。
+本项目代码托管于Github上，项目地址：[https://github.com/Yakima-Teng/lookjavascript](https://github.com/Yakima-Teng/lookjavascript)。
 
 
 ## 意见反馈
 
-由于个人时间、精力和知识深度有限，编写中如有勘误或不妥之处，还请不吝指出。[点此进行反馈](https://github.com/Yakima-Teng/memo/issues)。
+由于个人时间、精力和知识深度有限，编写中如有勘误或不妥之处，还请不吝指出。[点此进行反馈](https://github.com/Yakima-Teng/lookjavascript/issues)。
 
 
 ## 版权说明
