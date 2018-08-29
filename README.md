@@ -32,6 +32,23 @@
 - 来源：[前端志](http://www.lookjavascript.com/)：http://www.lookjavascript.com/
 
 
+## 脚本说明
+
+如果想参与本文档的撰写，下面这些命令说明可能会有些帮助：
+
+- `npm run docs`: 会进入`docs`目录下执行`gitbook serve`，供本地开发时使用
+
+- `npm run installGitPlugins`: 会进入`docs`目录下执行`gitbook install`命令安装书籍需要的gitbook插件
+
+- `npm run deploy`: 等同于先后执行`npm run docs:deploy`命令和`npm run deployToServer`命令
+
+- `npm run docs:deploy`: 将编译后的电子书静态内容发布到远端仓库的`gh-pages`分支上
+
+- `npm run docs:generateSummary`: 自动生成电子书目录（注意，电子书目录请尽量手动生成）
+
+- `npm run deployToServer`: 将电子书静态内容发布到远程服务器上。
+
+
 ## TODO List
 
 

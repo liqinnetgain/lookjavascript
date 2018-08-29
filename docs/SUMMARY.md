@@ -1,14 +1,14 @@
 # 目录
 
 * [前言](README.md)
+* [git](./git/README.md)
+  * [tag的使用](./git/tag的使用.md)
 * [软技能](./软技能/README.md)
   * [科学上网](./软技能/科学上网.md)
 * [运维](./运维/README.md)
   * [MySQL启动失败故障排查](./运维/MySQL启动失败故障排查.md)
   * [Vim编辑器常用快捷键](./运维/Vim编辑器常用快捷键.md)
   * [linux系统和常用命令](./运维/linux系统和常用命令.md)
-* [git](./git/README.md)
-  * [tag的使用](./git/tag的使用.md)
 * [面试](./面试/README.md)
   * [CSRF跨站请求伪装](./面试/CSRF跨站请求伪装.md)
   * [DOM基础](./面试/DOM基础.md)
